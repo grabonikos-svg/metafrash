@@ -1,0 +1,7 @@
+PySide6
+Pillow
+pytesseract
+bettercam
+numpy
+ctranslate2
+sentencepiece
